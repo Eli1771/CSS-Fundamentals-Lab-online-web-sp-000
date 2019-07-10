@@ -12,3 +12,8 @@ nav {
   text-align: center;
   background: lightblue;
 }
+
+img {
+  display: block;
+  margin: auto;
+}
