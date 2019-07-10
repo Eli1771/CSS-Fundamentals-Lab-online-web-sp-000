@@ -39,4 +39,5 @@ img + figcaption {
   text-align: center;
   background: slategrey;
   width: 25%;
+  margin-top: 5%;
 }
