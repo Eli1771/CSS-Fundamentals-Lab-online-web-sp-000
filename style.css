@@ -34,4 +34,6 @@ img + figcaption {
   margin: auto;
 }
 
-#details
+#details div {
+  float: left;
+}
